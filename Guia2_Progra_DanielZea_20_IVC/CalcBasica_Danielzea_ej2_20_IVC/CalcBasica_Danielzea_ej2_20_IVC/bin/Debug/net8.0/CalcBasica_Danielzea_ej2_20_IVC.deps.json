@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalcBasica_Danielzea_ej2_20_IVC/1.0.0": {
+        "runtime": {
+          "CalcBasica_Danielzea_ej2_20_IVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcBasica_Danielzea_ej2_20_IVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
